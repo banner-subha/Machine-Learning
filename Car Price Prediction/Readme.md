@@ -24,12 +24,13 @@ Scikit-Learn (Machine Learning Model)
 
 ## 🚀 Model Performance
 
-The Random Forest Regressor was trained, achieving the following scores:
+Various machine learning models are trained and evaluated, including:
 
-Mean Absolute Error (MAE): 0.647
-Root Mean Squared Error (RMSE): 0.964
-R² Score: 0.959
-
+- **Logistic Regression**
+- **Decision Tree**
+- **Random Forest**
+- **Support Vector Regressor (SVR)**
+- **XGBoost Regressor**
 ## 🚀 How to Run
 
 ## 1️⃣ Clone the repository:
