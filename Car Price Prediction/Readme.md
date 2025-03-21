@@ -1,10 +1,10 @@
-🚗 Car Price Prediction using Machine Learning
+# 🚗 Car Price Prediction using Machine Learning
 
-📌 Overview
+## 📌 Overview
 
 This project predicts car selling prices based on various factors such as age, fuel type, transmission, driven kilometers, and ownership status. It utilizes machine learning models, data visualization (Plotly, Seaborn, Matplotlib), and feature engineering to generate insights.
 
-💍 Features
+## 💍 Features
 
 ✔️ Data Cleaning & Preprocessing
 ✔️ Exploratory Data Analysis (EDA) with Plotly & Seaborn
@@ -13,7 +13,7 @@ This project predicts car selling prices based on various factors such as age, f
 ✔️ Performance Evaluation (MAE, RMSE, R² Score)
 ✔️ Interactive Visualizations using Plotly Graph Objects
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python 🐍
 Pandas & NumPy (Data Preprocessing)
@@ -21,48 +21,49 @@ Seaborn & Matplotlib (Statistical Visualizations)
 Plotly (Interactive Graphs & Subplots)
 Scikit-Learn (Machine Learning Model)
 
-📊 Data Visualization
 
-
-🚀 Model Performance
+## 🚀 Model Performance
 
 The Random Forest Regressor was trained, achieving the following scores:
 
-Mean Absolute Error (MAE): xx.xx
-Root Mean Squared Error (RMSE): xx.xx
-R² Score: xx.xx
+Mean Absolute Error (MAE): 0.647
+Root Mean Squared Error (RMSE): 0.964
+R² Score: 0.959
 
-🐂 Project Structure
+## 🚀 How to Run
 
-📂 Car-Price-Prediction
-│── 📝 car_data.csv               # Dataset
-│── 📝 car_price_prediction.py    # Main Python Script
-│── 📝 requirements.txt           # Dependencies
-│── 📝 README.md                  # Documentation
+## 1️⃣ Clone the repository:
 
-🚀 How to Run
-
-1️⃣ Clone the repository:
-
+``` bash
 git clone https://github.com/banner-subha/Car-Price-Prediction.git
 
-2️⃣ Install dependencies:
+```
+## 2️⃣ Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Run the script:
+## 3️⃣ Run the script:
 
+``` bash
 python car_price_prediction.py
 
-🛠 Future Improvements
+```
+
+## 🛠 Future Improvements
 
 ✔️ Hyperparameter Tuning for better accuracy
-✔️ Deep Learning Models (Neural Networks)
+
+✔️ Deep Learning Models (Neural Networks
+
 ✔️ Web App Deployment using Streamlit
 
-👭 Connect with Me
+## 👭 Connect with Me
 
 📧 Email: banner.cse1998@outlook.com
+
 💻 LinkedIn: linkedin.com/in/banner-subha
+
 🚀 GitHub: github.com/banner-subha
 
