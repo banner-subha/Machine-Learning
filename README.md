@@ -43,7 +43,7 @@ Welcome to my project repository for the **OIBSIP (Oasis Infobyte) Internship**!
 ---
 
 ## 📌 Connect with Me
-💼 **LinkedIn:** [www.linkedin.com/in/banner-subha]() <!-- Replace with actual link -->  
+💼 **LinkedIn:** [www.linkedin.com/in/banner-subha](www.linkedin.com/in/banner-subha) <!-- Replace with actual link -->  
 📂 **GitHub:** [https://github.com/banner-subha]()  
 📧 **Email:** banner.cse1998@outlook.com 
 
