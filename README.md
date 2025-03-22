@@ -14,7 +14,7 @@ Welcome to my project repository for the **OIBSIP (Oasis Infobyte) Internship**!
   - Data preprocessing and visualization
   - Model training using Logistic Regression, Decision Trees, and SVM
   - Evaluation using accuracy, confusion matrix, and classification report
-- 📌 [View Project](#) <!-- https://github.com/banner-subha/OIBSIP/tree/main/Iris%20Classification -->
+- 📌 [View Project](https://github.com/banner-subha/OIBSIP/tree/main/Iris%20Classification) <!--  -->
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to my project repository for the **OIBSIP (Oasis Infobyte) Internship**!
   - Visualized unemployment trends over time
   - Identified key insights using statistical analysis
   - Created insightful plots such as heatmaps, bar charts, and line graphs
-- 📌 [View Project](#) <!-- https://github.com/banner-subha/OIBSIP/tree/main/Unemployment%20in%20India%20Analysis -->
+- 📌 [View Project](https://github.com/banner-subha/OIBSIP/tree/main/Unemployment%20in%20India%20Analysis) <!--  -->
 
 ---
 
@@ -38,13 +38,13 @@ Welcome to my project repository for the **OIBSIP (Oasis Infobyte) Internship**!
   - Feature engineering and correlation analysis
   - Trained multiple regression models (Linear Regression, Random Forest, XGBoost)
   - Model evaluation using RMSE, R² score, and cross-validation
-- 📌 [View Project](#) <!-- https://github.com/banner-subha/OIBSIP/tree/main/Car%20Price%20Prediction -->
+- 📌 [View Project](https://github.com/banner-subha/OIBSIP/tree/main/Car%20Price%20Prediction) <!--  -->
 
 ---
 
 ## 📌 Connect with Me
-💼 **LinkedIn:** [linkedin.com/in/banner-subha](linkedin.com/in/banner-subha) <!-- Replace with actual link -->  
-📂 **GitHub:** [github.com/banner-subha](https://github.com/your-username)  
+💼 **LinkedIn:** [Link](linkedin.com/in/banner-subha) <!-- Replace with actual link -->  
+📂 **GitHub:** [Link](https://github.com/banner-subha)  
 📧 **Email:** banner.cse1998@outlook.com 
 
 ---
