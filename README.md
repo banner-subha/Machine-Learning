@@ -1,6 +1,4 @@
-# 🌟 OIBSIP Internship Projects
-
-Welcome to my project repository for the **OIBSIP (Oasis Infobyte) Internship**! This repository contains three data science and machine learning projects that I worked on during the internship. Each project focuses on different aspects of data analysis, predictive modeling, and visualization.
+# 🌟  Machine Learning Projects
 
 ---
 
